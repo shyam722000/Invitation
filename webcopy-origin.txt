@@ -1,0 +1,28 @@
+Uri: https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nVivNm4I81.woff2
+File Name: C:\Users\shyam\OneDrive\Desktop\Wedding\wedding.ajjuism.com\s\pressstart2p\v14\e3t4euO8T-267oIAQAu6jDQyK3nVivNm4I81.woff2
+Content Type: font/woff2
+
+Uri: https://wedding.ajjuism.com/
+File Name: C:\Users\shyam\OneDrive\Desktop\Wedding\wedding.ajjuism.com\index.htm
+Content Type: text/html
+
+Uri: https://wedding.ajjuism.com/favicon.ico
+File Name: C:\Users\shyam\OneDrive\Desktop\Wedding\wedding.ajjuism.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://wedding.ajjuism.com/logo192.png
+File Name: C:\Users\shyam\OneDrive\Desktop\Wedding\wedding.ajjuism.com\logo192.png
+Content Type: image/png
+
+Uri: https://wedding.ajjuism.com/manifest.json
+File Name: C:\Users\shyam\OneDrive\Desktop\Wedding\wedding.ajjuism.com\manifest.json
+Content Type: application/json
+
+Uri: https://wedding.ajjuism.com/static/css/main.1966b579.css
+File Name: C:\Users\shyam\OneDrive\Desktop\Wedding\wedding.ajjuism.com\static\css\main.1966b579.css
+Content Type: text/css
+
+Uri: https://wedding.ajjuism.com/static/js/main.f628c893.js
+File Name: C:\Users\shyam\OneDrive\Desktop\Wedding\wedding.ajjuism.com\static\js\main.f628c893.js
+Content Type: application/javascript
+
